@@ -50,6 +50,63 @@ https://azatdicle.medium.com/vulnhub-evilbox-one-ctf-çözümü-e5e0474e7108
 16.Deathnote: 1
 https://azatdicle.medium.com/vulnhub-deathnote-1-ctf-çözümü-ab83b6172820
 
+17.doubletrouble 
+https://azatdicle.medium.com/vulnhub-doubletrouble-ctf-çözümü-5a5e7385f6ac
+
+18.The Planets: Earth 
+https://azatdicle.medium.com/vulnhub-the-planets-earth-ctf-çözümü-528cd3c12bc8
+
+19.Nezuko
+https://azatdicle.medium.com/vulnhub-nezuko-1-ctf-çözümü-052958e186e5
+
+20.DPWWN 
+https://azatdicle.medium.com/vulnhub-dpwwn-ctf-çözümü-2887c914f342
+
+21.ColddBox 
+https://azatdicle.medium.com/vulnhub-colddbox-ctf-cözümü-569f6de817bc
+
+22.FoxHole: 1.0.1
+https://azatdicle.medium.com/vulnhub-foxhole-1-0-1-çözümü-1ebe18f56897
+
+23.Hacker Fest: 2019
+https://azatdicle.medium.com/vulnhub-hacker-fest-2019-çözümü-75afe5b57379
+
+24.Loly
+https://azatdicle.medium.com/vulnhub-loly-1-makinesinin-çözümü-0f9faef6483d
+
+25.MoneyHeist 
+https://azatdicle.medium.com/vulnhub-moneyheist-çözümü-0a1e6bd8c5fa
+
+26.HackNos: ReconForce
+https://azatdicle.medium.com/vulnhub-hacknos-reconforce-v1-1-çözümü-49dccf4031e9
+
+27.Kioptrix: Level 1.1
+https://azatdicle.medium.com/vulnhub-kioptrix-level-1-1-çözümü-147487cab046
+
+28.Kioptrix: Level 1
+https://azatdicle.medium.com/vulnhub-kioptrix-level-1-çözümü-d82a2d29eb6c
+
+29.Sunset: nightfall
+https://azatdicle.medium.com/vulnhub-sunset-nightfall-çözümü-d278db61f76e
+
+30.Sunset
+https://azatdicle.medium.com/vulnhub-sunset-1-çözümü-0a9d36499b14
+
+31.MoneyBox 
+https://azatdicle.medium.com/vulnhub-moneybox-çözümü-a3ff0bb8b4d2
+
+32.Jangow
+https://azatdicle.medium.com/vulnhub-jangow-1-0-1-çözümü-3656ac4bd63d
+
+33.HarryPotter: Aragog
+https://azatdicle.medium.com/vulnub-harrypotter-aragog-ctf-çözümü-f530c6bf1e1
+
+34.Noob 1 CTF
+https://azatdicle.medium.com/vulnhub-noob-1-ctf-çözümü-8fe6785486b4
+
+35.Try Hackme CTF Corridor
+https://azatdicle.medium.com/try-hackme-ctf-corridor-82e6e5871b7a
+==================================================================
 =TOOL=
 Spiderfoot 
 https://medium.com/@azatdicle/kali-linux-spiderfoot-toolu-nedir-785ca3810c4c
