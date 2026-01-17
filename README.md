@@ -1,7 +1,7 @@
 # CTF_AND_TOOL
 Çözülen Ctf'ler ve Tool'ar
 
-=CTF Çözümleri=
+# CTF Çözümleri
 1.Beelzebub
 https://medium.com/@azatdicle/vulnhub-beelzebub-1-ctf-çözümü-9640592a397d
 
@@ -107,7 +107,7 @@ https://azatdicle.medium.com/vulnhub-noob-1-ctf-çözümü-8fe6785486b4
 35.Try Hackme CTF Corridor
 https://azatdicle.medium.com/try-hackme-ctf-corridor-82e6e5871b7a
 
-==================================================================
-=TOOL=
+
+# TOOL
 Spiderfoot 
 https://medium.com/@azatdicle/kali-linux-spiderfoot-toolu-nedir-785ca3810c4c
