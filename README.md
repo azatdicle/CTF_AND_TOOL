@@ -107,6 +107,14 @@ https://azatdicle.medium.com/vulnhub-noob-1-ctf-çözümü-8fe6785486b4
 35.Try Hackme CTF Corridor
 https://azatdicle.medium.com/try-hackme-ctf-corridor-82e6e5871b7a
 
+36.Looz
+https://azatdicle.medium.com/vulnhub-looz-1-ctf-çözümü-a51e27033697
+
+37.DarkHole 1
+https://azatdicle.medium.com/vulnhub-darkhole-1-ctf-çözümü-fa468254f006
+
+38.Hacker kid
+https://azatdicle.medium.com/vulnhub-hacker-kid-1-0-1-ctf-çözümü-b69bd9455392
 
 # TOOL
 Spiderfoot 
