@@ -116,7 +116,7 @@ https://azatdicle.medium.com/vulnhub-darkhole-1-ctf-çözümü-fa468254f006
 38.Hacker kid
 https://azatdicle.medium.com/vulnhub-hacker-kid-1-0-1-ctf-çözümü-b69bd9455392
 
-DarkHole: 2 
+39:DarkHole: 2 
 https://azatdicle.medium.com/vulnhub-darkhole-2-ctf-çözümü-9bb7cd8d3412
 
 # TOOL
